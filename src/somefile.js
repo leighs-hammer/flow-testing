@@ -8,6 +8,7 @@ const fictionalObject = {
     'fight club',
     'natural born killers',
     'fight club',
+    'fight club',
   ],
 }
 

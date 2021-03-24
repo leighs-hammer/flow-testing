@@ -1,0 +1,19 @@
+{
+  "name": "flow-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "fictional": "node src/somefile.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leighs-hammer/flow-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leighs-hammer/flow-testing/issues"
+  },
+  "homepage": "https://github.com/leighs-hammer/flow-testing#readme"
+}

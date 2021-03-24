@@ -10,3 +10,9 @@ const fictionalObject = {
   ],
 }
 
+const fakeTest = () => {
+  const newObject = {...fictionalObject}
+  return newObject
+}
+
+console.log(fakeTest())

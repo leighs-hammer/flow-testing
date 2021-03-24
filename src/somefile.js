@@ -7,8 +7,6 @@ const fictionalObject = {
     'never ending story',
     'fight club',
     'natural born killers',
-    'fight club',
-    'fight club',
   ],
 }
 

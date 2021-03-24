@@ -4,9 +4,9 @@
 const fictionalObject = {
   movies: [
     'never ending story',
+    'fight club',
     'pulp fiction',
     'natural born killers',
-    'fight club',
   ],
 }
 

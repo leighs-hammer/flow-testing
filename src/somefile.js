@@ -3,10 +3,10 @@
 
 const fictionalObject = {
   movies: [
-    'natural born killers',
+    'pulp fiction',
     'never ending story',
     'fight club',
-    'pulp fiction',
+    'natural born killers',
     'fight club',
   ],
 }
